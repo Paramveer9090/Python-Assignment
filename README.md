@@ -18,7 +18,7 @@ If you have uploaded the notebook to GitHub, you can use:
 ### 2. You can view the Clean trafic data file here
 You can View the file from **Google Drive**:
 
-[View in Google Drive]([https://drive.google.com/your-drive-link](https://drive.google.com/drive/u/0/folders/1SRKD-MsC76_Rqh-k0hJdoCdWBJXY8jZ8))
+[View in Google Drive]([https://drive.google.com/your-drive-link](https://drive.google.com/drive/u/0/folders/1SRKD-MsC76_Rqh-k0hJdoCdWBJXY8jZ8])
 
 
 
