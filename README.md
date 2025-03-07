@@ -26,22 +26,7 @@ You can download the notebook from **Google Drive**:
 
 [Download from Google Drive](https://drive.google.com/your-drive-link)
 
-## Dataset
-The dataset used in this analysis is the **Chicago Traffic Collision Data**. Ensure you have the CSV file (`Traffic_Crashes_-_Crashes.csv`) in the same directory before running the notebook.
 
-## How to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd your-repo
-   ```
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook Chicago_Traffic_Analysis.ipynb
-   ```
 
 ## License
 This project is open-source and free to use for educational and research purposes.
