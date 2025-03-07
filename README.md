@@ -11,7 +11,7 @@ You can view the Jupyter Notebook (`Chicago_Traffic_Analysis.ipynb`) using the f
 If you have uploaded the notebook to GitHub, you can use:
 
 ```
-[View on GitHub](https://github.com/your-repo/Chicago_Traffic_Analysis.ipynb)
+[View on GitHub](https://github.com/Paramveer9090/Python-Assignment/blob/main/Assignment1.ipynb)
 ```
 
 ### 2. Open with Google Colab
