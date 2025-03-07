@@ -1,5 +1,4 @@
-# Python-Assignment
-# Chicago Traffic Analysis Notebook
+# Python-Assignment 1
 
 This repository contains the Jupyter Notebook for analyzing and visualizing Chicago traffic data.
 
